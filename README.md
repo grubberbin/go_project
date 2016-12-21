@@ -1,2 +1,2 @@
 # go_project
-cod push test
+code push test
